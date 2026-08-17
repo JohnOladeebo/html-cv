@@ -21,11 +21,6 @@
     </audio>
 
     <video controls>
-<source src="https://github.com/mdn/learning-area/raw/refs/heads/main/html/multimedia-and-embedding/tasks/media-embed/media/video.webm"
-        src="https://github.com/mdn/learning-area/raw/refs/heads/main/html/multimedia-and-embedding/tasks/media-embed/media/video.mp4"
-        src="<iframe width="560" height="315" src="https://www.youtube.com/embed/HNGAifq6pNY?si=e-TQdFwaqSG9Icib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
-        type="video/mp4">
-        type="video/webm">
-        <p> A Rabbit</p>
-        </video>
+<source src="<iframe width="560" height="315" src="https://www.youtube.com/embed/pZ-xsyDyTeU?si=bk5mBfKWRNX3ttlr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+        
 </body>
